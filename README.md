@@ -1,3 +1,3 @@
 # Gbdt-SDK
-云易Gbdt-SDKv1.1
+云易Gbdt-SDKv1.3
 持续更新中...
